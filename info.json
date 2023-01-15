@@ -1,0 +1,8 @@
+{"trip": 
+	{
+	"userID": "testID",
+	"tripTO": "London",
+	"tripFROM": "Glasgow",
+	"tripDATE": "20/01/2021"
+	}
+}
